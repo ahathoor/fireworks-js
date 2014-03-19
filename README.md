@@ -1,4 +1,4 @@
-javascript
+Fireworks!
 ==========
 
-Repository for Javascript -course.
+Fireworks done in javascript :)
